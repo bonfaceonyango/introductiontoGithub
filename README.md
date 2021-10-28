@@ -32,10 +32,33 @@ _singe underscore_
   
 ~text~
   
- ~~text~~
+ ~~text~
   
- ---text---
+  1. Bonny
   
- --double undescore--
-
-  ***text***
+  2. Hilda
+  
+  3. George
+  
+  6. Steve
+  
+  5. Totodingo
+  
+  (i) dAVID
+  (ii) Violet
+  (iii)Henry
+  
+  i Henry
+  ii George
+   
+  1 Wilson
+   -eats
+   -drinks
+   -plays
+   -jumps
+  
+  2 Violet
+   -reads
+   -cooks
+   -music
+ 
