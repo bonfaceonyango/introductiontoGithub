@@ -27,15 +27,15 @@ Introducing github [pwani University.](https://cgp.co.ke/wp-content/uploads/2018
   
 *Single asterics*
   
- _sindle underscore_
-  ---tripple undesscore---
+_singe underscore_
+---tripple undesscore---
   
- ~text~
+~text~
   
-  ~~text~~
+ ~~text~~
   
-  ---text---
+ ---text---
   
-  --double undescore--
+ --double undescore--
 
   ***text***
